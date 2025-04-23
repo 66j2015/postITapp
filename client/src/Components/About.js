@@ -1,7 +1,7 @@
 const About = () => {
   return (
     <div>
-      Your name
+      Rasheeda Hamed Albadi
       <br />
       Your ID
     </div>
