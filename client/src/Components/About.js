@@ -1,7 +1,7 @@
 const About = () => {
   return (
     <div>
-     Reem Ali AlRoushdi
+     Marwa
       <br />
       Your ID
     </div>
